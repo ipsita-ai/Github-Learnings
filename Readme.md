@@ -1,4 +1,4 @@
-**Git Theory**
+**Git Theory : Complete Guide**
 
 **git version 2.42.0.windows.2**
 
