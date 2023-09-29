@@ -1,3 +1,4 @@
 hello world
 Ipsita Panda
 Updating new.txt for developerb
+Adding story for Developer A
