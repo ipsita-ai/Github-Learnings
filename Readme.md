@@ -1,3 +1,4 @@
-Git Theory
-git version 2.42.0.windows.2
-Ipsita Panda : Ipsita.panda@edhec.com
+**Git Theory**
+
+**git version 2.42.0.windows.2**
+**Ipsita Panda : Ipsita.panda@edhec.com**
